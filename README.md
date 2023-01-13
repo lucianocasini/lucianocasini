@@ -2,9 +2,11 @@
 
 **`Fullstack developer`**
 
-Soy un apasionado por la tecnología. Me encanta innovar y crear sistemas que ayuden a las personas.
-Actualmente estoy en búsqueda laboral en una empresa donde pueda aportar mis conocimientos en proyectos desafiantes y pueda seguir desarrollandome
-profesionalmente.
+ Hola, soy Luciano, desarrollador web FullStack. Durante años he
+desarrollado diversos tipos de proyectos, abarcando diferentes ámbitos y tecnologías. <br />
+Me apasiona desarrollar sistemas que aporten valor y hagan más fácil la vida de las personas, que al final son quienes terminan utilizando estas herramientas. <br />
+Además de las tecnologías con las que trabajo, también tengo interés en temas relacionados a domótica, criptomonedas y finanzas. <br />
+
 Si deseas contactarme puedes hacerlo mediante <a href="https://www.linkedin.com/in/lucianocasini">Linkedin</a> donde también podrás ver mi recorrido por este maravilloso mundo 🙌
 
 ### Tecnologías
